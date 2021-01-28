@@ -10,7 +10,7 @@ const QuizBackground = styled.div`
   background-color: ${({ theme }) => theme.colors.mainBg};
   flex: 1;
   @media screen and (max-width: 500px) {
-    background-image: none;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/480/560/21/anime-haikyu-haikyuu-karasuno-high-wallpaper-preview.jpg);
     &:after {
       content: "";
       background-size: cover;
